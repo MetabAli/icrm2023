@@ -1,4 +1,4 @@
-# icrm2023
+# ICRM2023
 Radiomics workshop for ICRM 2023
 ---
 In this workshop  we will learn:
